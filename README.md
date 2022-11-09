@@ -2,7 +2,7 @@
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!">
 </h1> 
 <ul>
-  <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="180"/>
+  <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="100"/>
   <li> 🔭 I’m currently working on 🐘 <b>PHP</b>, 👽 <b>HTML</b>, ⚛️ <b>CSS</b> </li><br>
   <li> 🧰 I use tools <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="32"/>
   </li><br>
