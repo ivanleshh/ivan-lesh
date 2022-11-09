@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <code>Ivan</code>
+<img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="150"/>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!">
-<img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="70"/>
 </h1> 
 <ul>
   <li> 🔭 I’m currently working on 🐘 <b>PHP</b>, 👽 <b>HTML</b>, ⚛️ <b>CSS</b> </li><br>
