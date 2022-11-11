@@ -13,10 +13,9 @@
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="60">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" height="60">
   </li><br>
-  <li> 🌱 I’m currently learning 🕸️ <b>Web-design<b></li><br>
+   <li> 🌱 I’m currently learning 🕸️<b>Web-design</b></li><br>
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
-<h1></h1>
     <h3>📈 My statistic<br><br><a align="left"><img src="https://github-profile-trophy.vercel.app/?username=ivan-lesh"></h3>
     
         
