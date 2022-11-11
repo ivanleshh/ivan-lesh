@@ -1,8 +1,8 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <code>Ivan</code>
+<img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="220"/>
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!">
 </h1> 
 <ul>
-  <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="220"/>
   <li> 🔭 I’m currently working on
     <br><br> <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="60">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="60">
