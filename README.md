@@ -2,11 +2,12 @@
 <h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!">
 </h1> 
 <ul>
-  <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="200"/>
+  <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="220"/>
   <li> 🔭 I’m currently working on
     <br><br> <img  align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="60">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="60">
-    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60"><br><br>
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="60">
+    <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" height="60"><br><br>
   <li> 🧰 I use tools<br><br> <img  align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/github.svg" height="60">
     <img align="center" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/diagramsdotnet.svg" height="60">
     <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" height="60">
@@ -16,4 +17,4 @@
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
 <h1></h1>
-        📈 <b>"Моя статистика"></b><a align="center"><img src="https://github-profile-trophy.vercel.app/?username=ivan-lesh">
+        📈 <b>"Моя статистика"</b><br><br><a align="left"><img src="https://github-profile-trophy.vercel.app/?username=ivan-lesh">
