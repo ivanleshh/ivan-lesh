@@ -16,6 +16,6 @@
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
 <h1></h1>
-    <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="200"/>   
     📈 <b>"Моя статистика"</b><br><br><a align="left"><img src="https://github-profile-trophy.vercel.app/?username=ivan-lesh">
+    <img align="right" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="150"/>   
         
