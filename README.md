@@ -1,6 +1,6 @@
 <h1 align="center"><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> Hi there, I'm <code>Ivan</code>
    <img align="center" src="https://github.com/blackcater/blackcater/blob/main/images/banner.gif" height="75"/>
-<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub!"> 
+<h1 align="left"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Welcome+to+my+GitHub+profile!"> 
 </h1> 
 <ul>
   <li> 🔭 I’m currently working on
@@ -16,6 +16,7 @@
    <li> 🌱 I’m currently learning 🕸️<b>Web-design</b></li><br>
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
-    <h3>📈 My statistic<br><br><a align="left"><img src="https://github-profile-trophy.vercel.app/?username=ivan-lesh"></h3>
+    <h3>📈 My statistic<br><br><img align="left" src="https://github-profile-trophy.vercel.app/?username=ivan-lesh"></h3>
+ 
     
         
