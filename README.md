@@ -17,6 +17,5 @@
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
     <h3>📈 My statistic<br><br><img align="left" src="https://github-profile-trophy.vercel.app/?username=ivan-lesh"></h3>
+
  
-    
-        
