@@ -21,4 +21,4 @@
 <h3>🐍 Snake eating my contribution graph</h3>
 
 ![snake gif](https://github.com/ivan-lesh/ivan-lesh/blob/output/github-contribution-grid-snake.gif)
- 
+   
