@@ -16,9 +16,4 @@
    <li> 🌱 I’m currently learning 🕸️<b>Web-design</b></li><br>
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
-    <h3>📈 My statistic<br><br><img align="left" src="https://github-profile-trophy.vercel.app/?username=ivan-lesh"></h3>
 <br><br><br><br>
-<h3>🐍 Snake eating my contribution graph</h3>
-
-![snake gif](https://github.com/ivan-lesh/ivan-lesh/blob/output/github-contribution-grid-snake.gif)
-   
