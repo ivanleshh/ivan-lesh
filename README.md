@@ -16,4 +16,3 @@
    <li> 🌱 I’m currently learning 🕸️<b>Web-design</b></li><br>
   <li> 📫 How to reach me: 📧 <b>leshok.ivan05@yandex.ru</b></li>
 </ul>
-<br><br><br><br>
